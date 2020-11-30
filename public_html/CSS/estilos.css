@@ -8,6 +8,11 @@ and open the template in the editor.
     Author     : Alber
 */
 
+.ofertas{
+    position:absolute;
+    display:block;top:10px;
+    color:black;
+}
 
 body{
     padding-top: 100px;
